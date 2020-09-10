@@ -1,9 +1,10 @@
-Attack Signature:
-Legacy TEST : 2020-08-19
-Legacy PROD: 2020-08-19
+Latest Attack Signature Version:
 
-BNET TEST: 2020-08-19
-BNET PROD: 2020-08-19
+Legacy TEST:    2020-08-19
+Legacy PROD:    2020-08-19
 
-DMZ TEST: 2020-08-19
-DMZ PROD: 2020-08-19
+BNET TEST:      2020-08-19
+BNET PROD:      2020-08-19
+
+DMZ TEST:       2020-08-19
+DMZ PROD:       2020-08-19
