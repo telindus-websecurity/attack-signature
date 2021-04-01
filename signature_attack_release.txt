@@ -1,10 +1,9 @@
 Latest Attack Signature Version:
 
-Legacy TEST:    2020-10-14
 Legacy PROD:    2020-08-19
 
-BNET TEST:      2020-10-14
+BNET TEST:      2021-03-25
 BNET PROD:      2020-08-19
 
-DMZ TEST:       2020-10-14
+DMZ TEST:       2021-03-25
 DMZ PROD:       2020-08-19
