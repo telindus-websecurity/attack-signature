@@ -1,9 +1,9 @@
 Latest Attack Signature Version:
 
-Legacy PROD:    2020-08-19
+Legacy PROD:    2021-10-14
 
-BNET LAN TEST:      2021-05-16
-BNET LAN PROD:      2021-05-16
+BNET LAN TEST:      2021-10-14
+BNET LAN PROD:      2021-10-14
 
-DMZ LAN TEST:       2021-05-16
-DMZ LAN PROD:       2021-05-16
+DMZ LAN TEST:       2021-10-14
+DMZ LAN PROD:       2021-10-14
